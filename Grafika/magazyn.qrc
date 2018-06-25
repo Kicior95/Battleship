@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>morze.png</file>
+        <file>morze_2.png</file>
+        <file>rock.png</file>
+        <file>rock_2.png</file>
+        <file>statek.png</file>
+        <file>statek_2.png</file>
+        <file>statek1.png</file>
+        <file>statek2_2.png</file>
+        <file>destr.jpg</file>
+        <file>destr2.jpg</file>
+        <file>destr_2.jpg</file>
+        <file>statek_cel.png</file>
+    </qresource>
+</RCC>
